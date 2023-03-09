@@ -1,0 +1,38 @@
+_repo: Tanar-of-Pellucidar_70199
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Krenkel, Roy G.
+    alias: Krenkel, Roy Gerald
+    birthdate: 1918
+    deathdate: 1983
+    gutenberg_agent_id: '26377'
+    url: http://www.gutenberg.org/2009/agents/26377
+    wikipedia: https://en.wikipedia.org/wiki/Roy_Krenkel
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2023-03-03'
+identifiers:
+  gutenberg: '70199'
+language: en
+pgterms:marc904: https://archive.org/details/ace-f-171-edgar-rice-burroughs-tanar-of-pellucidar-gorgon-776/mode/2up
+pgterms:marc905: 20230209062251burroughs
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Greg Weeks, Mary Meehan, & the online Distributed
+  Proofreaders Canada team at https://www.pgdpcanada.net
+publication_note: '  $aUnited States :$bAce Books, Inc., $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tanar of Pellucidar
+url: http://www.gutenberg.org/ebooks/70199
